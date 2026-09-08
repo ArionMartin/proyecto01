@@ -134,7 +134,7 @@ hr{
 .cards-banner-one{
   width: 100%;
   height: 350px;
-  background: url('./imagenes/imagenpexel.jpg');
+  background: url('./imagenes/imagenpexel.jpg')no-repeat center center/cover;
   margin-bottom: 40px;
 
 }
@@ -148,4 +148,12 @@ hr{
 .cards-banner-one p,
 .cards-banner-one h2{
   margin: 10px 0 20px 0;
+}
+/* CARDS BANNER TWO*/
+.cards-banner-two{
+  width: 100%;
+  height: 350px;
+  
+  background:url('./imagenes/imagenpexel1.jpg') no-repeat center center/cover;
+
 }
