@@ -134,7 +134,7 @@ hr{
 .cards-banner-one{
   width: 100%;
   height: 350px;
-  background: url('./imagenes/cruznoche.jpg');
+  background: url('./imagenes/imagenpexel.jpg');
   margin-bottom: 40px;
 
 }
@@ -144,4 +144,8 @@ hr{
   padding: 90px 0 0 30px;
   color: #ffffff;
 
+}
+.cards-banner-one p,
+.cards-banner-one h2{
+  margin: 10px 0 20px 0;
 }
